@@ -1,6 +1,8 @@
 ---
 title: Tina Cloud Starter
 blocks:
+  - body: "```javascript\n<script>\r\n  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };\r\n</script>\r\n<script defer src=\"/_vercel/insights/script.js\"></script>\n```\n"
+    _template: content
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
@@ -56,6 +58,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 

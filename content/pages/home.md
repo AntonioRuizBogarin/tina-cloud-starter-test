@@ -1,9 +1,7 @@
 ---
 title: hola title
 blocks:
-  - body: |
-      ```javascript
-      ```
+  - body: ''
     _template: content
   - headline: Welcome to the Tina Starter
     text: >

@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: hola title
 blocks:
   - body: "```javascript\n<script>\r\n  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };\r\n</script>\r\n<script defer src=\"/_vercel/insights/script.js\"></script>\n```\n"
     _template: content
